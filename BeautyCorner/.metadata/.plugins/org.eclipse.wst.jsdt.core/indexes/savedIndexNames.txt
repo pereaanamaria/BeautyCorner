@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/andraseserman/eclipse-workspace/BeautyCorner/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+916412387.index

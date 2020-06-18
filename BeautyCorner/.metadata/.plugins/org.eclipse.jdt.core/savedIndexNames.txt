@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/andraseserman/eclipse-workspace/BeautyCorner/.metadata/.plugins/org.eclipse.jdt.core
+916412387.index

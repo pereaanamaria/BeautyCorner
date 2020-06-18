@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/andraseserman/eclipse-workspace/BeautyCorner/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3197398312.index
+/AdminBoard/src
+/Users/andraseserman/eclipse-workspace/BeautyCorner/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1717171749.index
+/BeautyCornerWebsite/src
